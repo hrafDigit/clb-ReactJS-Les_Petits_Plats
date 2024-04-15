@@ -1,7 +1,7 @@
 // import react from 'react';
 import { Link } from 'react-router-dom';
 /* --------------------- */
-import logo from '../../../assets/images/commons/logo/logo-lesPetitsPlats--noir@2x.svg'
+import logo from '../../../../assets/images/commons/logo/logo-lesPetitsPlats--noir@2x.svg'
 /* --------------------- */
 
 /* ±±±±±±±±±±±±±±±±±±±±± */
